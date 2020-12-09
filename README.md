@@ -47,3 +47,6 @@ Few comments:
 - For storing images you may use libraries\db\file storage.
 - In the case when a user in offline mode will select something else you should show a message that there is no internet connection.
 
+## Screenshot
+
+![](https://drive.google.com/uc?export=view&id=1wx0jywB1VCMD-EUNoc5PlJEhjfH26-B3)
