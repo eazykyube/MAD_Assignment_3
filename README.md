@@ -1,4 +1,4 @@
-# MAD_Assignment_3
+# Petfinder
 
 Implementation of an assignment within the Mobile Application Development course in Innopolis University. Was done as a free-listener of the course. The database part was not finished, only the online version works correctly.
 
